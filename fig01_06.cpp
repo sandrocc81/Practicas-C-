@@ -1,5 +1,5 @@
 //fig 1.6
-//realizar un programa que suma dos numeros
+//realizar un programa que suma dos numeros enteros
 
 #include <iostream>
 
